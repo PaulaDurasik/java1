@@ -1,0 +1,10 @@
+{
+	"lista": [
+		"asd",
+		5,
+		4.4,
+		{"str1":"qweqwe","str2":"vbn", "str3": [1,2,3]}
+	],
+	"integer":12,
+	"string":"zxc"
+}

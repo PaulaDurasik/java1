@@ -1,0 +1,5 @@
+Paulina	5	5	5
+Roman	4	3.5	4
+Bartosz	4	4	4
+Micha³	3.5	4.5	5.5
+Maria	3	5	5
